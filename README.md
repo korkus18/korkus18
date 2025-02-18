@@ -18,10 +18,6 @@ I'm a full-stack web developer focused on creating modern web applications and e
 - **Agile Methodologies**  
   Embracing agile practices to rapidly iterate and deliver high-quality, innovative solutions.
 
-## My Approach
-
-I'm passionate about writing clean, efficient code and continuously exploring new technologies. I strive to develop solutions that meet current needs while paving the way for future innovation.
-
 ## Let's Connect
 
 Feel free to reach out if you'd like to collaborate or just have a chat!
