@@ -1,29 +1,32 @@
-# Hello, I'm Jakub Korous! 👋
+# Hi, I'm Jakub Korous! 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile.
 
-I'm a full-stack web developer with a passion for creating e-commerce platforms and modern web applications. I love building intuitive, responsive interfaces and scalable back-end systems that drive business success.
+I'm a full-stack web developer focused on creating modern web applications and e-commerce solutions. I enjoy designing responsive, intuitive user interfaces and building reliable back-end systems that transform ideas into reality.
 
-## What I Do 💻
+## Areas of Expertise
 
 - **Front-End Development**  
-  Crafting responsive, user-friendly interfaces with HTML5, CSS3 (Bootstrap, Tailwind CSS) and JavaScript (React.js, Vue.js, Node.js).
+  Crafting dynamic and mobile-friendly interfaces using HTML5, CSS3 (Bootstrap, Tailwind CSS) and JavaScript libraries like React.js, Vue.js, and Node.js.
 
 - **Back-End Development**  
-  Developing robust server-side solutions using PHP (Symfony, WordPress – custom themes & plugins) and Python (Django).
+  Building robust server-side applications with PHP (Symfony) and Python (Django).
 
-- **Agile Development**  
-  Embracing agile methodologies to deliver innovative projects and continuously improve my skills.
+- **CMS Development**  
+  Customizing and extending WordPress solutions (including WooCommerce, custom themes, and plugins).
 
-## My Approach 🚀
+- **Agile Methodologies**  
+  Embracing agile practices to rapidly iterate and deliver high-quality, innovative solutions.
 
-I believe that great software is built with meticulous attention to detail, continuous learning, and effective collaboration. I thrive on tackling challenging problems and bringing fresh, innovative solutions to every project.
+## My Approach
 
-## Get In Touch 📬
+I'm passionate about writing clean, efficient code and continuously exploring new technologies. I strive to develop solutions that meet current needs while paving the way for future innovation.
 
-If you have any questions, ideas for collaboration, or just want to connect, feel free to reach out!
+## Let's Connect
+
+Feel free to reach out if you'd like to collaborate or just have a chat!
 
 - **Email:** [kubak.ko@gmail.com](mailto:kubak.ko@gmail.com)
 - **Portfolio:** [jakubkorous.cz](https://jakubkorous.cz)
 
-Let's build something amazing together! ✨
+Looking forward to building something amazing together! 🌟
