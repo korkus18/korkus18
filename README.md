@@ -1,28 +1,51 @@
-# Hi, I'm Jakub Korous! 👋
+# Hi, I'm Jakub Korous
 
-Welcome to my GitHub profile.
+I'm a full-stack developer and early-stage B2B SaaS builder focused on **automation, data, and systems that scale**.
 
-I'm a full-stack web developer focused on creating modern web applications and e-commerce solutions. I enjoy designing responsive, intuitive user interfaces and building reliable back-end systems that transform ideas into reality.
+I work end-to-end: from idea validation and product design to backend architecture, frontend UX, and deployment. I care less about elegant abstractions and more about **things that actually ship, get used, and generate leverage**.
 
-## Areas of Expertise
+## What I Focus On
 
-- **Front-End Development**  
-  Crafting dynamic and mobile-friendly interfaces using HTML5, CSS3 (Bootstrap, Tailwind CSS) and JavaScript libraries like React.js, Vue.js, and Node.js.
+- **Product-driven development**  
+  Building software with a clear reason to exist: who pays, why they care, and what breaks at scale.
 
-- **Back-End Development**  
-  Building robust server-side applications with PHP (Symfony) and Python (Django).
+- **Automation & internal tools**  
+  Reducing manual work, eliminating bottlenecks, and turning repeated processes into systems.
 
-- **CMS Development**  
-  Customizing and extending WordPress solutions (including WooCommerce, custom themes, and plugins).
+- **Full-stack web applications**  
+  Designing and implementing reliable, maintainable apps with modern stacks.
 
-- **Agile Methodologies**  
-  Embracing agile practices to rapidly iterate and deliver high-quality, innovative solutions.
+## Tech Stack
 
-## Let's Connect
+**Frontend**
+- Vue.js, React
+- Tailwind CSS, Bootstrap
+- UX-focused, component-driven development
 
-Feel free to reach out if you'd like to collaborate or just have a chat!
+**Backend**
+- Python (Django, FastAPI)
+- PHP (Symfony)
+- REST APIs, background jobs, cron-based systems
 
-- **Email:** [kubak.ko@gmail.com](mailto:kubak.ko@gmail.com)
+**Data & Infrastructure**
+- PostgreSQL, Redis
+- Docker
+- Git-based workflows, CI/CD-oriented thinking
+
+**CMS & E-commerce**
+- WordPress (custom themes, plugins)
+- WooCommerce integrations when it makes business sense
+
+## How I Work
+
+- Prefer **fast validation over theoretical perfection**
+- Think in **systems, not isolated features**
+- Optimize for **long-term leverage**, not short-term comfort
+- Comfortable making mistakes early if they accelerate learning
+
+## Contact
+
+- **Email:** [contact@jakubkorous.cz](mailto:contact@jakubkorous.cz)
 - **Portfolio:** [jakubkorous.cz](https://jakubkorous.cz)
 
-Looking forward to building something amazing together! 🌟
+If you're building something real and need a developer who thinks beyond tickets and frameworks, feel free to reach out.
