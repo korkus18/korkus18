@@ -6,9 +6,9 @@ I care less about elegant abstractions and more about software with a clear reas
 
 ## What I'm Building
 
-- **[LeadHeat](https://leadheat.io)** — AI pre-engagement engine for B2B LinkedIn outbound. My main product.
-- **[LiftSet](https://liftset.app)** — gym tracker built around progressive overload, offline-first workouts.
-- Client & research work in internal automation and applied tooling.
+- **B2B SaaS products** — turning real workflows into software that pays for itself.
+- **Automation & internal tools** — cutting manual work and turning repeated processes into systems.
+- **Client & research work** — applied tooling, data pipelines, and full-stack web apps.
 
 ## Tech Stack
 
