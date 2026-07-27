@@ -1,51 +1,33 @@
 # Hi, I'm Jakub Korous
 
-I'm a full-stack developer and early-stage B2B SaaS builder focused on **automation, data, and systems that scale**.
+Full-stack developer and technical founder. I build **B2B SaaS, automation, and data systems that actually ship, get used, and generate leverage** — from idea validation and product design through backend architecture, frontend UX, and deployment.
 
-I work end-to-end: from idea validation and product design to backend architecture, frontend UX, and deployment. I care less about elegant abstractions and more about **things that actually ship, get used, and generate leverage**.
+I care less about elegant abstractions and more about software with a clear reason to exist: who pays, why they care, and what breaks at scale.
 
-## What I Focus On
+## What I'm Building
 
-- **Product-driven development**  
-  Building software with a clear reason to exist: who pays, why they care, and what breaks at scale.
-
-- **Automation & internal tools**  
-  Reducing manual work, eliminating bottlenecks, and turning repeated processes into systems.
-
-- **Full-stack web applications**  
-  Designing and implementing reliable, maintainable apps with modern stacks.
+- **[LeadHeat](https://leadheat.io)** — AI pre-engagement engine for B2B LinkedIn outbound. My main product.
+- **[LiftSet](https://liftset.app)** — gym tracker built around progressive overload, offline-first workouts.
+- Client & research work in internal automation and applied tooling.
 
 ## Tech Stack
 
-**Frontend**
-- Vue.js, React
-- Tailwind CSS, Bootstrap
-- UX-focused, component-driven development
+**Frontend** — Vue.js / Nuxt 3, React / Next.js, TypeScript, Tailwind CSS
 
-**Backend**
-- Python (Django, FastAPI)
-- PHP (Symfony)
-- REST APIs, background jobs, cron-based systems
+**Backend** — Python (Django, FastAPI), Node / Nitro, REST APIs, background & cron-based jobs
 
-**Data & Infrastructure**
-- PostgreSQL, Redis
-- Docker
-- Git-based workflows, CI/CD-oriented thinking
-
-**CMS & E-commerce**
-- WordPress (custom themes, plugins)
-- WooCommerce integrations when it makes business sense
+**Data & Infra** — PostgreSQL, Supabase, Redis, Docker, Vercel, Git-based CI/CD
 
 ## How I Work
 
-- Prefer **fast validation over theoretical perfection**
-- Think in **systems, not isolated features**
+- **Fast validation over theoretical perfection** — think in systems, not isolated features
 - Optimize for **long-term leverage**, not short-term comfort
 - Comfortable making mistakes early if they accelerate learning
+- End-to-end ownership: I ship the whole thing, not just the ticket
 
 ## Contact
 
 - **Email:** [contact@jakubkorous.cz](mailto:contact@jakubkorous.cz)
 - **Portfolio:** [jakubkorous.cz](https://jakubkorous.cz)
 
-If you're building something real and need a developer who thinks beyond tickets and frameworks, feel free to reach out.
+If you're building something real and need a developer who thinks beyond frameworks, reach out.
